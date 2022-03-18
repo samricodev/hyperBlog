@@ -17,3 +17,12 @@ div{
     margin-left: 25%;
     margin-right: 25%;
 }
+
+.footer{
+    background-color: aqua;
+    color: gray;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
